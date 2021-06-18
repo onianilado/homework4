@@ -10,13 +10,14 @@
 
 }
 .nav-li{
-	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	font-family: "ALK Life", sans-serif;
 	display: inline-block;
 	margin-right: 30px;
 	font-size: 22px;
 	color: #3D58A6;
 }
-.red{
+.red{	
+	font-family: "ALK Life", sans-serif;
 	font-size: 22px;
 	color: #EE4036;
 }
