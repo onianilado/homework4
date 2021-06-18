@@ -37,7 +37,7 @@
 	width: 570px;
 	background-color: #F2F2F2;
 	display: inline-block;
-	margin: 0 14.5px 0 0;
+	margin-right: 0 14.5px 0 0;
 	padding:  11.1px 15px 24.3px 20.8px;
 }  
 .text-block1{
@@ -101,7 +101,7 @@
 	font-size: 37px;
 	color: #FFFFFF;
 	margin-top: 40.4px;
-	padding: 7px 10px ;
+	text-align: center;
 }
 .date1{
 	font-size: 22px;
