@@ -125,6 +125,7 @@
 
 }
 .article-text{
+	text-indent: 2px;
 	letter-spacing: 2px;
 	font-family: 'BPG Nostalgia';
 	margin-bottom: 10px;
