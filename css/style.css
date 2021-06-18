@@ -140,7 +140,7 @@
 }
 /*news feed end*/
 /*contact page start*/
-.contact-info{
+.contact-information{
 	font-size: 20px;
 	color: #3D58A6;
 }
@@ -170,6 +170,9 @@
 	height: 464.5px;
 	display: inline-block;
 	vertical-align: top;
+}
+.contact-info{
+	color: #000000;
 }
 .contact-footer{
 	display: inline-block;
