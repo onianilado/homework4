@@ -1,0 +1,181 @@
+/*header start*/
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+	margin-left: 49.8px;
+	vertical-align: middle;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 30px;
+	font-size: 22px;
+	color: #3D58A6;
+}
+.red{
+	font-size: 22px;
+	color: #EE4036;
+}
+/*header end*/
+/*section start*/
+.container-block{
+	width: 1170px;
+	margin: 0 auto 
+}
+.banner{
+	margin-top: 76.9px;
+}
+.title{
+	margin: 117.6px 0 40.8px;
+	font-size: 24px;
+	color: #000000;
+}
+/*left block end*/
+.left-block{
+	width: 570px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	margin-right: 0 14.5px 0 0;
+	padding:  11.1px 15px 24.3px 20.8px;
+}  
+.text-block1{
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+	color: #333333;
+	margin-top: 17.4px;
+	margin-left: 61.2px;
+}
+.image-block1{
+	vertical-align: middle;
+}
+.title-block1{
+    margin-bottom: 12.7px;
+    font-size: 22px ;
+	color: #3D58A6;
+}
+/*left block end*/
+/*right block start*/
+.right-block{
+	width: 570px;
+	background-color:#F2F2F2;
+	display: inline-block;
+	margin:  0 0 0 14.5px;
+	padding: 11.1px 23.2px 36.1px 17.6px;
+}
+.text-block2{
+	display: inline-block;
+	width: 353.49px;
+	vertical-align: middle;
+	font-size: 20px;
+	color: #333333;
+	margin-top: 13.7px;
+	margin-left: 52.9px;
+}
+.image-block2{
+	vertical-align: middle;
+}
+.title-block2{
+	margin-bottom: 13.7px;
+	font-size: 22px;
+	color: #3D58A6;
+}
+/*right block end*/
+/*section end*/
+/*footer start*/
+.fb{
+	margin:  68.3px 65.8px 38.7px 0;
+}
+.yt{
+	margin: 68.3px 0 38.7px 0;
+}
+/*footer end
+/*news feed start*/
+.date{
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 37px;
+	color: #FFFFFF;
+	margin-top: 40.4px;
+	text-align: center;
+}
+.date1{
+	font-size: 22px;
+	color: #3D58A6;
+
+}
+.article-title{
+	font-size: 20px;
+	color: #000000;
+	margin-top: 17.5px;
+}
+
+.article-image{
+	vertical-align: top;
+	margin-top:17.8px ;
+	margin-right: 39px;
+
+
+}
+.article-text{
+	font-size: 16px;
+	color: #000000;
+} 
+.text-container{
+	width: 929.02px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 21px;
+
+} 
+.facebook{
+	margin: 32.1px 65.8px 0 0;
+}
+.youtube{
+	margin: 32.1px 0 0 0;
+}
+/*news feed end*/
+/*contact page start*/
+.contact-info{
+	font-size: 20px;
+	color: #3D58A6;
+}
+.contact{
+	color: #808080;
+}
+.contact-li{
+	font-size: 16px;
+	color: #000000;
+}
+.contact-container{
+	width: 1366px;
+	height: 560px;
+	display: inline-block;
+	background-color: #E6E6E6;
+	margin-top: 24.4px;
+	padding: 39px 95.5px 66.5px 97.3px;
+}
+.contact-left{
+	width: 261px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 12.5px;
+}
+.contact-right{
+	width: 848.5px;
+	height: 464.5px;
+	display: inline-block;
+	vertical-align: top;
+}
+.contact-footer{
+	display: inline-block;
+	margin: 31.7px 0 28.3px 47.3px;
+	}
+.facebook-logo{
+	margin-right: 65.8px;
+
+}
