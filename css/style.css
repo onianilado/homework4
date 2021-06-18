@@ -178,7 +178,15 @@
 	display: inline-block;
 	margin: 31.7px 0 28.3px 47.3px;
 	}
+/*footer*/
 .facebook-logo{
 	margin-right: 65.8px;
-
+}
+.divider{
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+	margin-right: 32px;
+	margin-left: 35px;
 }
