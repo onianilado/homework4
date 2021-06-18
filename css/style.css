@@ -47,6 +47,7 @@
 	padding:  11.1px 15px 24.3px 20.8px;
 }  
 .text-block1{
+	text-transform: capitalize;
 	font-family: 'Roboto';
 	display: inline-block;
 	width: 355px;
@@ -74,6 +75,7 @@
 	padding: 11.1px 23.2px 36.1px 17.6px;
 }
 .text-block2{
+	text-transform: capitalize;
 	font-family: 'Roboto';
 	display: inline-block;
 	width: 353.49px;
