@@ -85,14 +85,6 @@
 }
 /*right block end*/
 /*section end*/
-/*footer start*/
-.fb{
-	margin:  68.3px 65.8px 38.7px 0;
-}
-.yt{
-	margin: 68.3px 0 38.7px 0;
-}
-/*footer end
 /*news feed start*/
 .date{
 	width: 56px;
@@ -132,12 +124,6 @@
 	margin-top: 21px;
 
 } 
-.facebook{
-	margin: 32.1px 65.8px 0 0;
-}
-.youtube{
-	margin: 32.1px 0 0 0;
-}
 /*news feed end*/
 /*contact page start*/
 .contact-information{
@@ -179,9 +165,6 @@
 	margin: 31.7px 0 28.3px 47.3px;
 	}
 /*footer*/
-.facebook-logo{
-	margin-right: 65.8px;
-}
 .divider{
 	width: 1px;
 	height: 27px;
