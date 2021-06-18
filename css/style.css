@@ -46,6 +46,7 @@
 	padding:  11.1px 15px 24.3px 20.8px;
 }  
 .text-block1{
+	font-family: 'Roboto';
 	display: inline-block;
 	width: 355px;
 	vertical-align: middle;
@@ -72,6 +73,7 @@
 	padding: 11.1px 23.2px 36.1px 17.6px;
 }
 .text-block2{
+	font-family: 'Roboto';
 	display: inline-block;
 	width: 353.49px;
 	vertical-align: middle;
