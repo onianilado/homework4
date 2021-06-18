@@ -6,3 +6,15 @@
          url('../fonts/bpg-nostalgia-webfont.woff') format('woff'), /* Pretty Modern Browsers */
          url('../fonts/bpg-nostalgia-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/bpg-nostalgia-webfont.svg#bpg_nostalgiaregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-BoldItalic.eot');
+    src: url('Roboto-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Roboto-BoldItalic.woff2') format('woff2'),
+        url('Roboto-BoldItalic.woff') format('woff'),
+        url('Roboto-BoldItalic.svg#Roboto-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
