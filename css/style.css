@@ -7,10 +7,10 @@
 	display: inline-block;
 	margin-left: 49.8px;
 	vertical-align: middle;
-	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 
 }
 .nav-li{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	display: inline-block;
 	margin-right: 30px;
 	font-size: 22px;
